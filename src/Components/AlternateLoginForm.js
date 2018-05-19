@@ -20,8 +20,7 @@ class AlternateLoginForm extends Component {
     {/*=================================================*/}
 <div className="title">
 <h1>
-Login to view your account
-</h1>
+Sign In</h1>
 </div>
 <div>&nbsp;</div>
 
