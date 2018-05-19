@@ -35,7 +35,7 @@ this.props.media({ maxWidth: 1268 }, () => {
         <div className="loginCard" style={{
           //background:'rgba(255, 255, 255, .95)', 
           width: '80%',
-          height: '90vh',
+          height: '500px',
           marginLeft: '10%',
           marginTop: 60, 
           padding: 10}}
